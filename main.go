@@ -1,6 +1,5 @@
 package main
 
-import "martini"
 
 func main() {
   m := martini.Classic()
